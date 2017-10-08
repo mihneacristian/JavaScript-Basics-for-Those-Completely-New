@@ -1,0 +1,1 @@
+document.write("Hello from the external JavaScript file !")
